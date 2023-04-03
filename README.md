@@ -1,3 +1,15 @@
+- Compare license of debian/copyright files and dep-5 report (fossology)
+
+- trial using swupdate/hawkbit for linux
+
+- run ltp test for linux
+
+- invetigate and enable configs of linux
+
+- Compare license in path of source from scancode and fossology
+
+- Investigate riscv and create UM to run QEMU riscv64 with the latest kernel & Debian packages
+
 GridDB C Client
 
 ## Overview
